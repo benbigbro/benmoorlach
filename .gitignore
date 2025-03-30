@@ -1,15 +1,15 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # Compiled output
-/dist
-/tmp
-/out-tsc
-/bazel-out
+/ben-moorlach/dist
+/ben-moorlach/tmp
+/ben-moorlach/out-tsc
+/ben-moorlach/bazel-out
 
 # Node
-/node_modules
-npm-debug.log
-yarn-error.log
+/ben-moorlach/node_modules
+/ben-moorlachnpm-debug.log
+/ben-moorlachyarn-error.log
 
 # IDEs and editors
 .idea/
@@ -29,13 +29,14 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
-/.angular/cache
+/ben-moorlach/.angular/cache
+.angular/cache
 .sass-cache/
-/connect.lock
-/coverage
-/libpeerconnection.log
+/ben-moorlach/connect.lock
+/ben-moorlach/coverage
+/ben-moorlach/libpeerconnection.log
 testem.log
-/typings
+/ben-moorlach/typings
 
 # System files
 .DS_Store
